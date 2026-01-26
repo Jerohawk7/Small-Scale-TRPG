@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: bd80962e98200b2498f06820626bcb20
+  productGUID: 07e95b29348150948b69c6e8b43ae584
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -841,14 +841,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Knight Arena
+  metroPackageName: Small-Scale-TRPG
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Knight Arena
+  metroApplicationDescription: Small-Scale-TRPG
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
